@@ -8,5 +8,6 @@ do saldo, a aplicação não permitirá a ação, mantendo o valor do saldo. Há
 - Ferramentas utilizadas: TypeScript, JavaScript, Node.js
 
 - Comandos no terminal:
+  - npm install -g typescript
   - tsc -w
   - node <nomeDoArquivo.js>
